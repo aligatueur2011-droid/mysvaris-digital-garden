@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"dg-path":"Culture Générale/Le Thaar Originel.md","permalink":"/culture-generale/le-thaar-originel/"}
+---
+
+Il est raconté que, dans les temps immémoriaux, naquit le Thaar de Diamant, l’originel, celui qui donna vie à tous les Thaars. Son corps était pur, scintillant comme un diamant éternel, et son souffle façonnait les métaux vivants dans les profondeurs du monde. Il n’était pas simplement un être, mais un dieu pour son peuple, le premier guide et protecteur, capable de voir dans les âmes et de comprendre chaque battement de cœur thaars.  
+ Avec le temps, les Thaars se divisèrent en castes, et la haute caste choisit de vénérer un autre dieu, plus strict et exigeant, qui enseigna la séparation des richesses, la hiérarchie et le contrôle des métaux. Le nom du Thaar de Diamant fut oublié, effacé des mémoires publiques, et toute personne osant en parler est désormais condamnée par les dirigeants actuels, car son souvenir menace le pouvoir des privilégiés.  
+ Pourtant, les murmures persistent dans les mines et dans les étoiles : un jour, un Thaar de Diamant renaîtra. Il marchera parmi ses enfants, les unira et leur redonnera la liberté, rappelant à chaque Thaars que la véritable essence de leur peuple n’est pas la rigidité d’une hiérarchie imposée, mais la pureté et la force de leur métal vivant. Alors, les castes tomberont, et le monde reverra l’éclat originel du dieu qui les a créés.
+
+[![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/80f9e7d8-dbeb-4caa-b1af-36e06f0ea6aa/uploads/images/2085eca5226a0a0f0a8548842cf3ccb8.png "légende des thaars.png")
