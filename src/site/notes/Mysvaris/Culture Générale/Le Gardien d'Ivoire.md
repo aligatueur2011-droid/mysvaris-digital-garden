@@ -12,3 +12,4 @@ Dans certaines nuits calmes de Gorgorok, lorsque les feux de camp crépitent et 
  Car tant que la Dent d’Ivoire repose sous la garde de cet être inconnu, les anciens sourient et disent simplement :  
  « Si les dieux eux-mêmes n’osent pas l’affronter… alors peut-être que cette légende est bien réelle. »  
  _≈D'un vieux chamane quelconque_
+![Le gardien d'ivoir.png](/img/user/zzasset/Le%20gardien%20d'ivoir.png)
