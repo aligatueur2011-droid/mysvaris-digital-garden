@@ -9,7 +9,7 @@ Au-delà des royaumes et des peuples, de nombreuses organisations influencent l�
 Ces groupes rassemblent des individus de différentes races et origines, unis par une idéologie, une ambition ou une mission commune. Certains cherchent la richesse et l’influence, d’autres la connaissance, tandis que quelques-uns poursuivent des buts plus mystérieux encore.
 
 Pour les habitants de Mysvaris, ces organisations représentent souvent **des forces capables de rivaliser avec les royaumes eux-mêmes**, car leur pouvoir repose autant sur leurs membres que sur les secrets et les ressources qu’elles contrôlent.
-
+![les groupes de mysvaris.jpeg](/img/user/zzasset/les%20groupes%20de%20mysvaris.jpeg)
 ---
 
 ## **Groupes connus**

@@ -9,7 +9,7 @@ Le monde de **Mysvaris** est façonné par une grande diversité de peuples, cha
 Chaque race possède ses propres croyances, ses structures sociales et ses relations avec les autres peuples. Alliances, rivalités et préjugés façonnent leurs interactions, créant un équilibre fragile entre coopération et conflit.
 
 Certaines races recherchent le savoir et la maîtrise de la magie, d’autres privilégient la force, l’honneur ou l’adaptation à la nature. Pourtant, malgré leurs différences, leurs destins restent liés, car les événements qui secouent Mysvaris affectent chaque peuple, qu’il vive dans une grande cité ou dans les territoires les plus sauvages.
-
+![races de mysvaris.png](/img/user/zzasset/races%20de%20mysvaris.png)
 ---
 
 ## **Races connues**

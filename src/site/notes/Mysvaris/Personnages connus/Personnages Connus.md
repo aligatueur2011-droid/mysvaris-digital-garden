@@ -20,4 +20,4 @@ Leur véritable nature, leurs intentions ou même leur existence restent parfois
     
 - [[Mysvaris/Personnages connus/Lorien Vaelreth –Chef des Irréguliers\|Lorien Vaelreth –Chef des Irréguliers]]
     
-- [[Mysvaris/Personnages connus/Les Avatars\|Les Avatars]]
+- - [[Mysvaris/Personnages connus/Lorien Vaelreth –Chef des Irréguliers\|Lorien Vaelreth –Chef des Irréguliers]]

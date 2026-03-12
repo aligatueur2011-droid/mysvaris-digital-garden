@@ -9,7 +9,7 @@ Dans le monde de **Mysvaris**, certaines connaissances sont transmises à tous d
 Même si chaque royaume et chaque race possède ses propres traditions, certains récits dépassent les frontières et sont connus de tous. Ils parlent de pouvoirs anciens, de gardiens mystérieux, de reliques capables d’influencer le destin du monde et de forces qui veillent sur l’équilibre de Mysvaris.
 
 Ces connaissances ne sont pas toujours complètes, ni parfaitement exactes. Certaines prennent la forme de légendes, d’autres de vérités enseignées depuis des générations. Pourtant, qu’elles soient mythes ou réalités, **tous les habitants de Mysvaris ont déjà entendu parler de ces éléments fondamentaux du monde.**
-
+![Sommaires culutre g.png](/img/user/zzasset/Sommaires%20culutre%20g.png)
 ---
 
 ## **Connaissances communes**
@@ -24,4 +24,6 @@ Ces connaissances ne sont pas toujours complètes, ni parfaitement exactes. Cert
     
 - [[Mysvaris/Culture Générale/Les Douzes veilleurs de Mysvaris\|Les Douzes veilleurs de Mysvaris]]
     
-- [[Mysvaris/Culture Générale/Les Draconis\|Les Draconis]]
+- [[Mysvaris/Culture Générale/Les Draconis\|Les Draconis]] 
+    
+- [[Mysvaris/Culture Générale/La famille Francoeur\|La famille Francoeur]]  

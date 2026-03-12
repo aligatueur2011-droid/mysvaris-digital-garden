@@ -8,6 +8,7 @@ Bienvenue dans **Mysvaris**, un monde où la civilisation survit derrière des m
 
 Dans ce monde, royaumes, clans et organisations se disputent pouvoir, artefacts et savoir. Certains cherchent à préserver l’équilibre établi, tandis que d’autres conspirent dans l’ombre pour libérer les mortels du joug des dieux ou s’emparer d’anciennes reliques capables de changer le destin du monde.
 
+![paysage jdr.jpg](/img/user/zzasset/paysage%20jdr.jpg)
 ---
 
 # **Sommaire de l’Univers**
