@@ -13,12 +13,12 @@ Dans ce monde, royaumes, clans et organisations se disputent pouvoir, artefacts 
 
 # **Sommaire de l’Univers**
 
-- [[Mysvaris/Personnages connus/Personnages Connus\|Personnages Connus]]
+- [[Mysvaris/🌟Personnages connus/🌟Personnages Connus\|🌟Personnages Connus]]
     
-- [[Mysvaris/Races/Races\|Races]]
+- [[Mysvaris/🧬Races/🧬Races\|🧬Races]]
     
-- [[Mysvaris/Royaumes/Royaumes\|Royaumes]]
+- [[Mysvaris/🌍Royaumes/🌍Royaumes\|🌍Royaumes]]
     
-- [[Mysvaris/Groupes/Groupes\|Groupes]]
+- [[Mysvaris/👥Groupes/👥Groupes\|👥Groupes]]
     
-- [[Mysvaris/Culture Générale/Culture Générale\|Culture Générale]]
+- [[Mysvaris/📖Culture Générale/📖Culture Générale\|📖Culture Générale]]
