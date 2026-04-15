@@ -88,25 +88,3 @@ _L'assassin fantôme. Un tir, une mort._
 ╚════════════════╩═══════════════════════╩═══════════════════════════════════
 ```
 
-```
-╔════════════════╦═══════════════════════╦═══════════════════════════════════════╗
-║    BRANCHE     ║   ÉVOLUTIONS          ║        ABOUTISSEMENT ULTIME           ║
-╠════════════════╬═══════════════════════╬═══════════════════════════════════════╣
-║                ║ • Archer Maître       ║                                       ║
-║  GÉNÉRALISTE   ║ • Maître des Armes    ║      ARCHER LÉGENDAIRE                ║
-║                ║ • Vétéran             ║   (Maîtrise absolue du tir)           ║
-║                ║ • Commandant Tactique ║                                       ║
-╠════════════════╬═══════════════════════╬═══════════════════════════════════════╣
-║                ║ • Maître Tireur       ║                                       ║
-║   PRÉCISION    ║ • Tireur Embusqué     ║       ARCHER MAGIQUE                  ║
-║                ║ • Volée Mortelle      ║   (Fusion tir + magie arcane)         ║
-╠════════════════╬═══════════════════════╬═══════════════════════════════════════╣
-║                ║ • Garde-Forestier     ║                                       ║
-║     NATURE     ║ • Éclair Vert         ║     CHASSEUR LÉGENDAIRE               ║
-║                ║ • Chasseur Furtif     ║   (Symbiose totale nature)            ║
-╠════════════════╬═══════════════════════╬═══════════════════════════════════════╣
-║                ║ • Tueur Silencieux    ║                                       ║
-║  ASSASSINAT    ║ • Ombre-Flèche        ║       ŒIL DU DRAGON                   ║
-║                ║ • Assassin Distance   ║   (Vision divine, tir parfait)        ║
-╚════════════════╩═══════════════════════╩═══════════════════════════════════════╝
-```
