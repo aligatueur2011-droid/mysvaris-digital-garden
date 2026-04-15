@@ -69,3 +69,32 @@
 - Vision avec zoom ×4 naturel (détails nets à 200m)
 - Détecte points vitaux automatiquement (cœur, tête, artères)
 - Calcule balistique instinctivement (angle, vent, gravité compensés)
+
+# 🎯 ARBRE D'ÉVOLUTION : TIREUR D'ÉLITE
+
+text
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                    ÉVOLUTION COMPLÈTE TIREUR D'ÉLITE                      ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+                                ARCHER
+                                  │
+                                  │
+                           TIREUR D'ÉLITE
+                          (Longue Portée)
+                                  │
+                                  │
+                ┌─────────────────┼─────────────────┬──────────────┐
+                │                 │                 │              │
+                │                 │                 │              │
+          MAÎTRE TIREUR    TIREUR EMBUSQUÉ   VOLÉE MORTELLE   ARCHER ARCANE
+          (Précision max)   (Nids tireur)    (Tirs multiples) (Magie légère)
+                │                 │                 │              │
+                │                 │                 │              │
+                │                 │                 │              │
+         ARCHER MAGIQUE      SENTINELLE        ARTILLEUR      ENCHANTEUR
+          (Fusion magie)     (Défense zone)    (Destruction)   DE FLÈCHES
+```

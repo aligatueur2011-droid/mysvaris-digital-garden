@@ -69,3 +69,29 @@
 - Tue sans témoin : si tir tue cible, personne ne détecte provenance de la flèche
 - Absence de traces : impossible de pister après tir (sauf magie)
 - Calme mortel : fréquence cardiaque 30% normale (indétectable au stress)
+# 💀 ARBRE D'ÉVOLUTION : SNIPER
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                       ÉVOLUTION COMPLÈTE SNIPER                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+                                ARCHER
+                                  │
+                                  │
+                               SNIPER
+                          (Assassinat Distance)
+                                  │
+                                  │
+                ┌─────────────────┼─────────────────┬───────────────┐
+                │                 │                 │               │
+                │                 │                 │               │
+          TUEUR SILENCIEUX   OMBRE-FLÈCHE   ASSASSIN DISTANCE   ŒIL DE MORT
+          (Perfection kill)  (Furtivité)    (Élimination)      (Vision mortelle)
+                │                 │                 │               │
+                │                 │                 │               │
+                │                 │                 │               │
+           ŒIL DU DRAGON     FANTÔME        EXÉCUTEUR         PRÉDATEUR
+            (Vision divine)   (Invisible)    (Contrats)        SUPRÊME
+```

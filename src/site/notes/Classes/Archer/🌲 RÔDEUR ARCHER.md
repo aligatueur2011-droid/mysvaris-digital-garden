@@ -69,3 +69,33 @@
 - Sens du danger : détecte embuscades/pièges naturels (+35%)
 - Orientation parfaite : jamais perdu en nature (boussole mentale)
 - Trouve eau, nourriture, abri automatiquement en milieu naturel
+
+# 🌲 ARBRE D'ÉVOLUTION : RÔDEUR ARCHER
+
+text
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                    ÉVOLUTION COMPLÈTE RÔDEUR ARCHER                       ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+                                ARCHER
+                                  │
+                                  │
+                           RÔDEUR ARCHER
+                          (Nature & Survie)
+                                  │
+                                  │
+                ┌─────────────────┼─────────────────┬──────────────┐
+                │                 │                 │              │
+                │                 │                 │              │
+        GARDE-FORESTIER     ÉCLAIR VERT      CHASSEUR FURTIF   MAÎTRE BÊTES
+         (Protection)       (Vitesse)           (Pistage)       (Meute)
+                │                 │                 │              │
+                │                 │                 │              │
+                │                 │                 │              │
+          CHASSEUR          VENT DES BOIS      TRAQUEUR         ALPHA
+         LÉGENDAIRE        (Mobilité ultime)   FANTÔME       (Chef de meute)
+        (Symbiose totale)
+```
