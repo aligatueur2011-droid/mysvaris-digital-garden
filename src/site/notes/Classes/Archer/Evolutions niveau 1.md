@@ -63,38 +63,24 @@ _L'assassin fantôme. Un tir, une mort._
 - 🔮 **Passif :** Prédateur silencieux (tue sans témoin)
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                        ÉVOLUTION COMPLÈTE ARCHER                          ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-
-                            ARCHÉTYPE : COMBATTANT
-                                      │
-                                      │
-                                 ARCHER (Niv.1
-        ┌─────────────────────────────┼─────────────────────────────┐
-        │                             │                             │
-        │                             │                             │
-    ARCHER 2                   TIREUR D'ÉLITE              RÔDEUR ARCHER              SNIPER
- (Généraliste)                      (Niv.2)                    (Niv.2)               (Niv.2)
- Polyvalence arcs              Longue portée               Nature/Survie          Assassinat distance
-            │
-┌─────┼─────┬──────────┐      ┌─────┼─────┬──────┐        ┌──────┼──────┬──────┐  ┌────┼────┬──────┐
-│     │     │          │      │     │     │      │        │      │      │      │  │    │    │      │
-│     │     │          │      │     │     │      │        │      │      │      │  │    │    │      │
-ARCH  MAÎT  VÉTÉ   COMMAND  MAÎTRE TIREUR VOLÉE  ARCHER GARDE  ÉCLAIR CHASSEUR TU  OMBRE ASSASSIN ŒILD
- 3   ARMES  RAN    TACTI    TIREUR EMBUSQ MORTE ARCANE FORÊT   VERT   FURTIF  SILEN FLÈCHE DISTANCE MORT
-     MULT  (3)     (3)      (Niv.3) (3)   (3)   (3)    (3)     (3)    (3)     (3)   (3)     (3)     (3)
-     (3)
-D14+                        D16+                        D14+                        D17+
-S14+                        S16+                        S16+                        S17+
-F12+                        I13+                        C13+                        I14+
-
-│                             │                             │                      │
-│                             │                             │                      │
-│                             │                             │                      │
-ARCHER                   ARCHER MAGIQUE              CHASSEUR                 ŒIL DU DRAGON
-LÉGENDAIRE                   (Niv.5)                LÉGENDAIRE                   (Niv.5)
-(Niv.5)                  D16+, I14+, Arc 3+           (Niv.5)                 D18+, S18+, I16+
-D16+, S16+, F14+         Fusion tir + magie       D16+, S18+, C15+         Vision absolue
-Maître absolu            Flèches élémentaires     Fusion nature/archer      Tir divin
+╔════════════════╦═══════════════════════╦═══════════════════════════════════
+║    BRANCHE     ║   ÉVOLUTIONS          ║        ABOUTISSEMENT ULTIME       
+╠════════════════╬═══════════════════════╬═══════════════════════════════════
+║                ║ • Archer Maître       ║                                   
+║  GÉNÉRALISTE   ║ • Maître des Armes    ║      ARCHER LÉGENDAIRE            
+║                ║ • Vétéran             ║   (Maîtrise absolue du tir)       
+║                ║ • Commandant Tactique ║                                   
+╠════════════════╬═══════════════════════╬═══════════════════════════════════
+║                ║ • Maître Tireur       ║                                   
+║   PRÉCISION    ║ • Tireur Embusqué     ║       ARCHER MAGIQUE              
+║                ║ • Volée Mortelle      ║   (Fusion tir + magie arcane)     
+╠════════════════╬═══════════════════════╬═══════════════════════════════════
+║                ║ • Garde-Forestier     ║                                   
+║     NATURE     ║ • Éclair Vert         ║     CHASSEUR LÉGENDAIRE           
+║                ║ • Chasseur Furtif     ║   (Symbiose totale nature)        
+╠════════════════╬═══════════════════════╬═══════════════════════════════════
+║                ║ • Tueur Silencieux    ║                                   
+║  ASSASSINAT    ║ • Ombre-Flèche        ║       ŒIL DU DRAGON              
+║                ║ • Assassin Distance   ║   (Vision divine, tir parfait)    
+╚════════════════╩═══════════════════════╩═══════════════════════════════════
 ```
