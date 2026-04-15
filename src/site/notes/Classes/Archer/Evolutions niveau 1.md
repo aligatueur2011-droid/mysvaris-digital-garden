@@ -22,7 +22,7 @@ _Le généraliste polyvalent. Maître de tous les arcs._
 
 ---
 
-### **[[Tireur d'Élite Niveau 2\|Tireur d'Élite Niveau 2]]**
+# [[Classes/Archer/🎯 TIREUR D'ÉLITE\|🎯 TIREUR D'ÉLITE]]
 
 _Le sniper longue portée. Tir mortel à 120m._
 
@@ -36,7 +36,7 @@ _Le sniper longue portée. Tir mortel à 120m._
 
 ---
 
-### **[[Rôdeur Archer Niveau 2\|Rôdeur Archer Niveau 2]]**
+### **[[Classes/Archer/🌲 RÔDEUR ARCHER\|🌲 RÔDEUR ARCHER]]
 
 _Le chasseur nature. Symbiose forêt et arc._
 
@@ -50,7 +50,7 @@ _Le chasseur nature. Symbiose forêt et arc._
 
 ---
 
-### **[[Sniper Niveau 2\|Sniper Niveau 2]]**
+### **[[Classes/Archer/💀 SNIPER\|💀 SNIPER]]
 
 _L'assassin fantôme. Un tir, une mort._
 
