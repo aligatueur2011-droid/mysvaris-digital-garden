@@ -43,14 +43,13 @@ Le **Berserker** est la fureur incarnée, la destruction pure libérée de tou
 
 **Force décuplée :**
 
-- **+4 Force temporaire** (Force 16 → 20 pendant rage)
+- **+10 en arme de force** (Arme de force: 60% --> 70% pendant rage)
 - S'applique aux jets d'attaque ET de dégâts
 - Peut soulever/briser objets normalement impossibles
 
 **Résistance surnaturelle :**
 
-- **+3 Constitution temporaire**
-- PV temporaires bonus : +15 pendant la rage
+- **+10 PV temporaire**
 - Résistance à la douleur activée
 
 **Dégâts amplifiés :**
@@ -70,13 +69,11 @@ Le **Berserker** est la fureur incarnée, la destruction pure libérée de tou
 
 ```
 BERSERKER HORS RAGE :
-Force 16 → 64% toucher → 1d10+3 dégâts (moyenne 8)
+64% toucher → 1d10+3 dégâts (moyenne 8)
 
 BERSERKER EN RAGE :
-Force 20 (+4) → 80% toucher → (1d10+7) ×1,5 = moyenne 18 dégâts
+64% toucher + 10→ 74% toucher → (1d10+3) ×1,5 = moyenne 12 dégâts
 
-Augmentation : +125% dégâts par attaque
-Sur 4 tours rage : ~72 dégâts vs ~32 hors rage
 ```
 
 ---
@@ -85,7 +82,7 @@ Sur 4 tours rage : ~72 dégâts vs ~32 hors rage
 
 **Critiques étendus :**
 
-- Réussite critique sur **01-15** (au lieu de 01-05)
+- Réussite critique sur **01-15*0 (au lieu de 01)
 - **Chances triplées** de critique vs Guerrier normal
 - En rage : critiques encore plus dévastateurs (dégâts ×2 puis ×1,5 = ×3 total)
 
@@ -276,8 +273,8 @@ Berserker reste dehors ou suit en silence
 
 **1. Montée en puissance (hors rage) :**
 
-- Gagne **+1 Force temporaire** à chaque ennemi tué
-- Maximum **+3 Force** cumulable
+- Gagne **+5 d'arme de Force temporaire** à chaque ennemi tué
+- Maximum **+15 d'arme de Force** cumulable
 - Dure jusqu'à **fin du combat**
 - Se cumule avec rage si activée ensuite
 

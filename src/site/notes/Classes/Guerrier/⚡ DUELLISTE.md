@@ -36,13 +36,13 @@ Le **Duelliste** est l'incarnation de la précision et de l'élégance martial
 
 **Bonus d'attaque :**
 
-- **+3 Dextérité** pour tous les jets d'attaque (précision chirurgicale)
+- **+10 % pour les jets d'arme d'adresse (précision chirurgicale)
 - S'applique uniquement aux armes de finesse (rapière, épée courte, dague, fleuret)
-- Les jets d'attaque deviennent : (Dextérité +3) ×4
+- Les jets d'attaque deviennent : par exemple: dague (1d4+2) **+3**
 
 **Critiques étendus :**
 
-- Réussite critique sur **01-10** au lieu de 01-05 (chances doublées)
+- Réussite critique sur **01-05** au lieu de 01 (chances doublées)
 - Sur critique : dégâts ×2 ET effet spécial (saignement, désarmement, recul)
 
 **Frappe ciblée :**
@@ -60,11 +60,11 @@ Le **Duelliste** est l'incarnation de la précision et de l'élégance martial
 
 ```
 Guerrier Dext 12 : 12×4 = 48% de toucher
-Duelliste Dext 14+3 = 17 : 17×4 = 68% de toucher (+20% vs Guerrier)
+Duelliste Dext 12 = 12 : (12×4)+10 = 58% de toucher (+10% vs Guerrier)
 
 Critique :
-Guerrier : 5% de chances
-Duelliste : 10% de chances (×2)
+Guerrier : 1% de chances
+Duelliste : 5% de chances (×2)
 ```
 
 ---
@@ -73,7 +73,7 @@ Duelliste : 10% de chances (×2)
 
 **Esquive supérieure :**
 
-- **+20% à tous les jets d'esquive**
+- **+10% à tous les jets d'esquive**
 - Peut esquiver même attaques surprises (si conscient de la menace)
 - Esquiver en se rapprochant de l'ennemi (au lieu de reculer) : entre dans sa garde
 
@@ -110,14 +110,14 @@ Action normale → Attaque principale
 
 **Bonus en duel (1v1) :**
 
-- **+30% à TOUS les jets** quand affronte un seul adversaire
+- **+10% à TOUS les jets** quand affronte un seul adversaire
 - S'applique à : attaque, esquive, parade, dégâts
 - Définition 1v1 : aucun autre combattant dans 5 mètres
 
 **Analyse de l'adversaire :**
 
 - Après **2 tours** d'observation, détecte le style de combat ennemi
-- Gagne **+15% permanent** contre cet adversaire spécifique (en plus du +30% si duel)
+- Gagne **+ 5% permanent** contre cet adversaire spécifique (en plus du +30% si duel)
 - Identifie : classe, spécialisation, techniques favorites, points faibles
 
 **Résistance en duel :**
@@ -132,9 +132,9 @@ text
 
 ```
 DUEL 1v1 :
-Attaque : 68% (base) +30% = 98% de toucher (quasi-garanti)
-Esquive : 60% (base) +30% = 90% (très difficile à toucher)
-Après 2 tours : +15% supplémentaire → 113% attaque (auto-réussite sauf 96-100)
+Attaque : 68% (base) +10% = 78% de toucher
+Esquive : 60% (base) +10% = 70% de toucher
+Après 2 tours : +5% supplémentaire → 88% attaque
 
 COMBAT DE GROUPE (3+ ennemis) :
 Attaque : 68% (base) -20% (malus encerclement) = 48%
@@ -188,8 +188,8 @@ Frappe 2 : 27 - 15 = 12 PV (encore debout)
 
 **Restriction d'équipement :**
 
-- **Maximum armure moyenne** (cuir renforcé, cuir clouté, chemise de mailles légère)
-- Si porte armure lourde : **PERD TOUS SES BONUS** (précision, esquive, riposte)
+- **Maximum armure légère 
+- Si porte armure moyenne ou plus : **PERD TOUS SES BONUS** (précision, esquive, riposte)
 - Armure lourde = **-30% Dextérité supplémentaire** (cumulatif avec malus normal)
 
 **Conséquences défensives :**
@@ -217,7 +217,7 @@ Attaque 20 dégâts → -35% armure → 13 dégâts reçus
 
 **Malus d'encerclement :**
 
-- **-20% à tous les jets** si encerclé par 3+ ennemis
+- **-20% à tous les jets** si encerclé par 2+ ennemis
 - Perd capacité de se concentrer sur un adversaire unique
 - Difficulté à utiliser l'espace pour esquiver
 
@@ -260,7 +260,7 @@ Solution :
 
 - **Jet Sens ×4** pour identifier failles dans armure/défense ennemie
 - Révèle zones vulnérables (joints d'armure, blessures anciennes, etc.)
-- Si réussi : **+15% dégâts** contre cette zone spécifique
+- Si réussi : **+2 dégâts** contre cette zone spécifique
 - Fonctionne sur humanoïdes, créatures, constructs (pas élémentaires/spectres)
 
 **2. Bonus parade visuelle**

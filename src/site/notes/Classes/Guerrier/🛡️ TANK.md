@@ -36,14 +36,14 @@ Le **Tank** est le rempart vivant entre les ennemis et ses alliés. Sacrifiant
 
 **Résistance passive :**
 
-- **+3 Constitution** pour tous les calculs de défense et points de vie
-- Réduit **tous les dégâts reçus de 20%** (cumulatif avec l'armure)
+- **+15 PV pour tous les calculs de défense et points de vie
+- Réduit **tous les dégâts reçus de 10%** (cumulatif avec l'armure)
 - Les dégâts de zone (explosions, sorts) sont réduits de 30%
 
 **Posture défensive :**
 
 - Action : adopter une posture totalement défensive
-- Réduit les dégâts reçus de **40%** au lieu de 20%
+- Réduit les dégâts reçus de 20% au lieu de 10%
 - **Inconvénient :** Impossible d'attaquer ce tour
 - Peut maintenir la posture plusieurs tours consécutifs
 - Récupère **1d4 PV** au début de chaque tour en posture défensive
@@ -117,7 +117,7 @@ Tour 2 : Allié le soigne 10 PV → Remonte à 3 PV → Reprend le combat
 
 **Mobilité réduite :**
 
-- **-15% Dextérité** pour tous les jets en combat
+- Désaventage pour tous les jets contenant de la dextérité en combat
 - Vitesse de déplacement réduite de **30%** (9m → 6m par tour en moyenne)
 - **Désavantage automatique** sur jets d'initiative (joue presque toujours en dernier)
 

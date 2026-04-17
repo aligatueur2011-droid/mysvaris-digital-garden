@@ -20,14 +20,14 @@
 ### **1. Tir de précision extrême**
 
 - Portée doublée sans malus : arc long 60m → 120m
-- Critiques étendus : 01-15 au lieu de 01-05
+- Critiques étendus : 01-05 au lieu de 01
 - Si critique réussi à 50m+ : dégâts ×3 au lieu de ×2
-- Visée prolongée : +15% par tour d'observation (max 3 tours = +45%)
+- Visée prolongée : +5% par tour d'observation (max 3 tours = +15%)
 
 ### **2. Camouflage de tireur**
 
-- +30% discrétion en position de tir immobile
-- Ennemis : -25% pour le détecter
+- +5% discrétion en position de tir immobile
+- Ennemis : -5% pour le détecter
 - Premier tir invisible : cible ignore provenance
 - Peut installer nid de tireur (10min = couverture optimale)
 

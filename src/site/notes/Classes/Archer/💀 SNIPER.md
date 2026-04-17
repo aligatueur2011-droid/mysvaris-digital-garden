@@ -19,14 +19,14 @@
 
 ### **1. Tir mortel unique**
 
-- Premier tir du combat : +50% dégâts si cible ignorante
-- Exécution : si cible <50% PV et tir critique → mort instantanée (jet résistance)
+- Premier tir du combat : +25% dégâts si cible ignorante
+- Exécution : si cible <25% PV et tir critique → mort instantanée (jet résistance)
 - Tir prioritaire : identifie et élimine cible la plus dangereuse automatiquement
 - Philosophie "un tir = une mort" (concentration absolue)
 
 ### **2. Furtivité totale**
 
-- Invisible tant qu'immobile (+50% discrétion)
+- Invisible tant qu'immobile (+15% discrétion)
 - Tir silencieux : aucun bruit, flash ou trace
 - Disparition : après tir, peut se cacher immédiatement (action bonus)
 - Fausse piste : laisse traces trompeuses (ennemis cherchent mauvais endroit)
